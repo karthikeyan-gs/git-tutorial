@@ -8,3 +8,6 @@ git push -u origin master
 # git pull is a combination of 2 commands.
 fetch
 merge
+
+#git fetch
+#git merge

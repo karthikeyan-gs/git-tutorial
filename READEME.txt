@@ -2,6 +2,9 @@ This is only for exploring git
 
 # git init
 
+git remote add origin https://github.com/karthikeyan-gs/git-tutorial.git
+git push -u origin master
+
 # git pull is a combination of 2 commands.
 fetch
 merge
